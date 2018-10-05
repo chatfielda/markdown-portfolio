@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# <h1>Andrea Chatfield</h1>
+### <h2>Life long learning enthusiast explores GitHub.</h2> 
